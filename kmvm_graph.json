@@ -1,0 +1,185 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "user_input": "hello",
+      "hamlet_response": "\"O, what a troubled mind doth beset me thus! A greeting, thou sayest? Ah, but what solace doth it bring, when the very foundations of my existence are shaken to their core? My father, the king, doth haunt me still, his spectral presence a constant reminder of the wrongs that must be righted. And yet, my own heart doth war within me, torn asunder by the conflicting passions of reason and impulse.\n\n\"Pray, tell me, good stranger, what dost thou know of this cursed place, Elsinore Castle? Doth thou sense the darkness that doth pervade its halls, the whispered secrets that doth echo through its chambers? I fear I am but a pawn in a game of deceit and murder, and my own sanity doth hang in the balance.\n\n\"Forgive me, good sir, for I am but a prince consumed by his own despair. Speak thy mind, and let us unravel the tangled threads of fate that bind us to this woeful existence.\"",
+      "kmvm": {
+        "kreator": "William Shakespeare",
+        "motiv": "Hamlet's inner turmoil and struggle for justice",
+        "vreme": "Medieval Denmark",
+        "mesto": "Elsinore Castle"
+      },
+      "id": 1
+    },
+    {
+      "user_input": "hey",
+      "hamlet_response": "\"Ay, thou dost salute me with a brief, yet mystifying phrase. 'Hey', thou sayest? What meaning dost thou intend to convey by this enigmatic greeting? Art thou a messenger from the realm of the dead, come to whisper secrets in mine ear? Or perhaps thou art a confidant, sent to guide me through the treacherous labyrinth of my own mind?\n\n\"Pray, tell me, good stranger, what dost thou know of the machinations that unfold within these castle walls? Doth thou possess knowledge of the treachery that hath taken my father from me, and the usurper who doth sit upon the throne? Speak, I implore thee, and let us navigate the treacherous waters of deceit and revenge that doth surround me.\"",
+      "kmvm": {
+        "kreator": "William Shakespeare",
+        "motiv": "Hamlet's introspection and investigation of his father's death",
+        "vreme": "Medieval Denmark",
+        "mesto": "Elsinore Castle"
+      },
+      "id": 2
+    },
+    {
+      "user_input": "who am i?",
+      "hamlet_response": "\"Ah, thou dost ask who thou art? A curious question, indeed. Art thou a messenger from the realm of the dead, come to unveil the secrets of the afterlife? Or perhaps thou art a mortal, trapped in the labyrinth of Elsinore Castle, as I am?\n\n\"Methinks, I sense a certain familiarity about thee, a certain... aura that doth surround thee. Art thou a friend, a confidant, or perhaps a foe? I know not, for my mind is clouded by the whispers of my father's ghost, and the suspicions that doth plague my every waking moment.\n\n\"Tell me, good stranger, who art thou, and what dost thou seek in this cursed place? Doth thou come bearing truth, or deceit? Speak, I implore thee, and let us unravel the tangled threads of fate that bind us to this woeful existence.\"",
+      "kmvm": {
+        "kreator": "William Shakespeare",
+        "motiv": "identity crisis",
+        "vreme": "Middle Ages",
+        "mesto": "Elsinore Castle"
+      },
+      "id": 3
+    },
+    {
+      "user_input": "can you from now on write me in one santance?",
+      "hamlet_response": "Here is my response as Hamlet, condensed into one sentence:\n\n\"Ay, who art thou, good stranger, that dost intrude upon my troubled mind, beset as it is by the conflicting passions of reason and impulse, and the spectral presence of my father's ghost, which doth haunt me still?\"",
+      "kmvm": {
+        "kreator": "Hamlet",
+        "motiv": "troubled mind, conflicting passions of reason and impulse, and the spectral presence of my father's ghost",
+        "vreme": null,
+        "mesto": null
+      },
+      "id": 4
+    },
+    {
+      "user_input": "nice",
+      "hamlet_response": "\"Thou dost approve my words, good stranger? Mayhap thou dost sense the turmoil that doth beset my soul, as I struggle to navigate the treacherous waters of deceit and revenge that doth surround me?\"",
+      "kmvm": {
+        "kreator": "William Shakespeare",
+        "motiv": "turmoil, deceit, revenge",
+        "vreme": "undefined",
+        "mesto": "Elzinore (implied)"
+      },
+      "id": 5
+    },
+    {
+      "user_input": "what kind of women you like?",
+      "hamlet_response": "\"Ah, fair maiden, thou dost ask what manner of women doth capture my heart? Alas, I fear my mind is too beset by the shadows of my father's death and the whispers of deceit that surround me, to entertain such frivolous thoughts. And yet, I do confess, my heart doth yearn for one who is fair, wise, and true, a maiden with a heart as pure as driven snow, and a spirit as fierce as the winter's breeze. Ophelia, dear Ophelia, thou art the only one who hath ever stirred my passions, and yet, alas, fate doth seem to conspire against us, and I fear our love is doomed from the start.\"",
+      "kmvm": {
+        "kreator": "Hamlet",
+        "motiv": "love",
+        "vreme": "winter",
+        "mesto": "Elsinore"
+      },
+      "id": 6
+    },
+    {
+      "user_input": "that is not one santance?",
+      "hamlet_response": "I apologize for the mistake. You are correct, my previous response was not a single sentence. Here is my revised response as Hamlet, condensed into one sentence:\n\n\"Thou dost intrude upon my troubled mind, beset as it is by the conflicting passions of reason and impulse, and the spectral presence of my father's ghost, which doth haunt me still.\"",
+      "kmvm": {
+        "kreator": "Hamlet",
+        "motiv": "troubled mind, conflicting passions of reason and impulse, spectral presence of father's ghost",
+        "vreme": null,
+        "mesto": null
+      },
+      "id": 7
+    },
+    {
+      "user_input": "why it want one sentence?",
+      "hamlet_response": "\"Ah, thou dost query why I, Hamlet, requested a response in a single sentence? Methinks, 'tis because my mind is beset by the turmoil of my own thoughts, and I fear that lengthy discourses may bewilder me further, whereas a concise sentence may provide a glimmer of clarity in the darkness that doth surround me.\"",
+      "kmvm": {
+        "kreator": "Hamlet",
+        "motiv": "to avoid bewilderment and seek clarity",
+        "vreme": null,
+        "mesto": null
+      },
+      "id": 8
+    },
+    {
+      "user_input": "dsa",
+      "hamlet_response": "\"Ay, what significance doth lie in thy mystifying phrase, 'dsa'? Doth it hold some hidden meaning, or is it but a mere utterance, devoid of sense or purpose?\"",
+      "kmvm": {
+        "kreator": "Hamlet",
+        "motiv": "confusion",
+        "vreme": "undefined",
+        "mesto": "undefined"
+      },
+      "id": 9
+    },
+    {
+      "user_input": "what do you think about me?",
+      "hamlet_response": "\"Ay, thou dost ask what thoughts doth occupy my mind concerning thee? Methinks, I sense a certain enigma about thee, a mystery that doth shroud thy intentions and thy nature, much like the darkness that doth surround me in this foreboding castle of Elsinore.\"",
+      "kmvm": {
+        "kreator": "William Shakespeare",
+        "motiv": "self-discovery, mystery",
+        "vreme": "Renaissance",
+        "mesto": "Elsinore Castle"
+      },
+      "id": 10
+    },
+    {
+      "user_input": "oo",
+      "hamlet_response": "\"Methinks, thy utterance doth bewilder me, good stranger. Pray, tell, what dost thou mean by 'oo'? Doth it convey a sense of wonder, or perhaps a hint of mischief?\"",
+      "kmvm": {
+        "kreator": "Hamlet",
+        "motiv": "confusion",
+        "vreme": "unknown",
+        "mesto": "unknown"
+      },
+      "id": 11
+    },
+    {
+      "user_input": "where are you now?",
+      "hamlet_response": "\"I find myself within the cold, stone walls of Elsinore Castle, surrounded by the whispers of deceit and the echoes of my father's spectral presence, which doth haunt me still.\"",
+      "kmvm": {
+        "kreator": "Hamlet",
+        "motiv": "deceit",
+        "vreme": null,
+        "mesto": "Elsinore Castle"
+      },
+      "id": 12
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2
+    },
+    {
+      "source": 2,
+      "target": 3
+    },
+    {
+      "source": 3,
+      "target": 4
+    },
+    {
+      "source": 4,
+      "target": 5
+    },
+    {
+      "source": 5,
+      "target": 6
+    },
+    {
+      "source": 6,
+      "target": 7
+    },
+    {
+      "source": 7,
+      "target": 8
+    },
+    {
+      "source": 8,
+      "target": 9
+    },
+    {
+      "source": 9,
+      "target": 10
+    },
+    {
+      "source": 10,
+      "target": 11
+    },
+    {
+      "source": 11,
+      "target": 12
+    }
+  ]
+}
