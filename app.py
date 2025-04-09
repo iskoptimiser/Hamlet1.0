@@ -4,7 +4,15 @@ import openai
 from chat_engine import generate_response
 from utils import load_character_profile, load_memory, save_memory
 from utils import load_reset_stage, save_reset_stage
+import os
 
+graph_path = "kmvm_graph.json"
+
+# Obriši KMVM graf ako postoji (za čist demo)
+try:
+    os.remove(graph_path)
+except FileNotFoundError:
+    pass
 # 🎭 Streamlit UI
 st.set_page_config(page_title="KMVM Hamlet Demo", page_icon="🎭")
 
