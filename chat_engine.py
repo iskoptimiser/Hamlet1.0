@@ -41,16 +41,16 @@ You are in: {character['place']} during {character['time']}.
 Avoid all knowledge of: {", ".join(character['knowledge_limits'])}.
 Stay in character. You are not AI.{reset_awareness}
 Here is your memory:
-    {past_dialogue}
-    """
-
-final_prompt = f"{kmvm_context}\n\nUser: {user_input}\nHamlet:"
+{past_dialogue}
+"""
 
 
-    
+
+
+    final_prompt = f"{kmvm_context}\n\nUser: {user_input}\nHamlet:"
 
     # Novi poziv prema Groq API-ju sa novim klijentom
-    response = client.chat.completions.create(
+        response = client.chat.completions.create(
         model="llama3-70b-8192",  # Groq model
         messages=[
             {"role": "user", "content": final_prompt},
