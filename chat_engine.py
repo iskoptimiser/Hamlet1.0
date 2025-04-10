@@ -40,14 +40,14 @@ You are in: {character['place']} during {character['time']}.
 🎭 You speak in a style that is: {character['style']}.
 Avoid all knowledge of: {", ".join(character['knowledge_limits'])}.
 Stay in character. You are not AI.{reset_awareness}
-"""
+Here is your memory:
+    {past_dialogue}
+    """
 
 final_prompt = f"{kmvm_context}\n\nUser: {user_input}\nHamlet:"
 
 
-    Here is your memory:
-    {past_dialogue}
-    """
+    
 
     # Novi poziv prema Groq API-ju sa novim klijentom
     response = client.chat.completions.create(
